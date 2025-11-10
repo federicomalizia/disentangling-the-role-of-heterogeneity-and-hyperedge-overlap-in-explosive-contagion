@@ -75,10 +75,3 @@ All scripts are implemented in **Python 3** and rely on the following main libra
 - `json`, `os`, and `pandas` (for data management and I/O operations)
 
 ---
-
-### Citation
-
-If you use this code in your research, please cite the corresponding paper:
-
-> Malizia, F., Guzman, A., Iacopini, I., & Kiss, I. Z. (Year). Disentangling the Role of Heterogeneity and Hyperedge Overlap in Explosive Contagion on Higher-Order Networks. *Journal/Repository*.  
-> [Link to publication]
